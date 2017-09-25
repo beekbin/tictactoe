@@ -1,7 +1,7 @@
 package tree
 
 import (
-	"github.com/songbinliu/tictac/pkg/game"
+	"github.com/beekbin/tictactoe/pkg/game"
 
 	"github.com/golang/glog"
 	"math"

@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 	"flag"
-	"github.com/songbinliu/tictac/pkg/game"
-	"github.com/songbinliu/tictac/pkg/mcts"
+	"github.com/beekbin/tictactoe/pkg/game"
+	"github.com/beekbin/tictactoe/pkg/mcts"
 	"fmt"
 )
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-make
+make build
 ret=$?
 if [ $ret -ne 0 ] ; then
     echo "build failed"

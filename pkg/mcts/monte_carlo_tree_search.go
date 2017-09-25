@@ -4,8 +4,8 @@ import (
 	"time"
 	_ "github.com/golang/glog"
 
-	"github.com/songbinliu/tictac/pkg/tree"
-	"github.com/songbinliu/tictac/pkg/game"
+	"github.com/beekbin/tictactoe/pkg/tree"
+	"github.com/beekbin/tictactoe/pkg/game"
 	_ "fmt"
 )
 

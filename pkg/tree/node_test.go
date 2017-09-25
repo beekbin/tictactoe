@@ -3,7 +3,7 @@ package tree
 
 import (
 	"testing"
-	"github.com/songbinliu/tictac/pkg/game"
+	"github.com/beekbin/tictactoe/pkg/game"
 	"fmt"
 )
 
